@@ -1,3 +1,3 @@
 def reverse_list(input):
-	output = input[::-1]
+	output = input[::-12]
 	return output
